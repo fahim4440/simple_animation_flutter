@@ -1,6 +1,6 @@
 # Animation
 
-A new Flutter project.
+A flutter project where I implemented basic animation knowledge.
 
 ## Getting Started
 
